@@ -1,4 +1,4 @@
 T-SQL Code
 
 SELECT FROM
-INNER JOIN ON
+LEFT JOIN ON --the INNER changed to LEFT
