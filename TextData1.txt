@@ -5,3 +5,12 @@ class
 method //This line is commented
 delegate
 event
+
+class Order
+{
+   ctor
+
+   void Method()
+   {
+   }
+}
