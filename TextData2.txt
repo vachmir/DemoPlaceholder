@@ -2,3 +2,5 @@ T-SQL Code
 
 SELECT FROM
 LEFT JOIN ON --the INNER changed to LEFT
+
+WHERE ID IS NOT NULL
